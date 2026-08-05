@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/TRYHACKME-1a0633?style=for-the-badge&labelColor=FF2A6D">
   <img src="https://img.shields.io/badge/PRE--SECURITY-1a0633?style=for-the-badge&labelColor=00F0FF">
   <img src="https://img.shields.io/badge/CERT_%231-1a0633?style=for-the-badge&labelColor=A479C4">
-  <img src="https://img.shields.io/badge/OVERALL_SCORE-4.33%2F10-1a0633?style=for-the-badge&labelColor=00F0FF">
+  <img src="https://img.shields.io/badge/OVERALL_SCORE-4.88%2F10-1a0633?style=for-the-badge&labelColor=00F0FF">
 </p>
 
 ---
@@ -15,6 +15,10 @@
 
 > [!NOTE]
 > **TL;DR** - SEC0 is TryHackMe's entry point cert: foundational IT and computer literacy before security concepts even start. Verdict below: worth it for a first cert, skip if you already work in the field.
+
+<p align="center">
+  <img src="assets/scorecard.svg" width="720" alt="SEC0 S.P.A.R.R.O.W. scorecard, overall 4.88 out of 10">
+</p>
 
 ## Exam Parameters
 
@@ -30,6 +34,8 @@ General facts about the cert itself, not about how I personally did (that's furt
 | Time allowed | 24 hours |
 | Retake | 1 free retake included |
 | Validity | 3 years |
+| Price (new user / no subscription) | €59, includes 3 months of access to select learning paths |
+| Price (existing Premium/Max subscriber) | 15% discount off the standard price |
 
 ## Terrain
 
@@ -65,23 +71,23 @@ Full methodology and weighting logic: [main README](../README.md#methodology-spa
 
 | Letter | Dimension | Weight | Score | Reasoning |
 |:---:|---|:---:|:---:|---|
-| **S** | Scope | Medium | 10/10 | 1:1 match between what is promised and what is tested |
+| **S** | Scope | Medium | 9/10 | Coverage is close to 1:1, but the prep material actually goes a bit deeper than the exam ever tests, so it's slightly more than promised rather than an exact match |
 | **P** | Practicality | High | 5/10 | Builds the instinct of knowing where data comes from, but most of it is automated by SIEM/SOAR/XDR today |
 | **A** | Access | Low | 10/10 | Legacy and current Pre Security paths are a solid theory+practice mix, most of it free |
-| **R** | Reliability | Low | 10/10 | Zero platform issues, environment loaded once and stayed stable |
-| **R** | Rigor | Medium | 8/10 | Docked for the answer-format confusion, otherwise consistent |
+| **R** | Reliability | Low | 9/10 | No major issues, but the exam screen reloaded unexpectedly once in a while during the attempt, a minor hiccup rather than a blocker |
+| **R** | Rigor | Medium | 7/10 | The answer-format confusion happened twice, not once, which is enough to genuinely dent trust in the grading, not just a one-off fluke |
 | **O** | Outcome | High | 1/10 | Unrecognized on the job market, reads as first-computer-use or help desk training, not a cyber signal |
-| **W** | Worth | High | 2/10 | Cheap and often discounted or bundled, but the value is not the content, it is the checkpoint moment |
+| **W** | Worth | High | 5/10 | The underlying knowledge here is genuinely common and freely findable elsewhere in structured form (YouTube courses, free IT fundamentals content, community docs), so paying anything is already a discretionary choice. €59 for a new user does bundle 3 months of access to real learning paths, which makes it a fair price for what's included, but it's not exceptional given how replicable the content is without paying at all |
 
-### Overall score: 4.33 / 10
+### Overall score: 4.88 / 10
 
 | Weight tier | Multiplier | Dimensions | Scores | Weighted subtotal |
 |---|:---:|---|---|:---:|
-| High | x6 | Practicality, Outcome, Worth | 5, 1, 2 | 48 |
-| Medium | x2 | Scope, Rigor | 10, 8 | 36 |
-| Low | x1 | Access, Reliability | 10, 10 | 20 |
+| High | x6 | Practicality, Outcome, Worth | 5, 1, 5 | 66 |
+| Medium | x2 | Scope, Rigor | 9, 7 | 32 |
+| Low | x1 | Access, Reliability | 10, 9 | 19 |
 
-Total weighted sum 104, over total weight 24, gives **4.33/10**.
+Total weighted sum 117, over total weight 24, gives **4.88/10**.
 
 > [!TIP]
 > **Reading the score:** high Scope/Access/Reliability with low Outcome/Worth is the expected shape for an entry cert like this. It means TryHackMe built exactly what they said they would build, it is just early on the ladder. Don't read the low numbers as "bad cert," read them as "correctly positioned as step one," which is also why the weighting favors Practicality, Outcome and Worth: those are the numbers that actually change your decision.
@@ -123,6 +129,7 @@ If you are starting from zero certs, first job after school, or switching in fro
     <img src="../assets/more_reviews.svg" width="360" alt="More TryHackMe cert reviews">
   </a>
 </p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/animsparrow">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
