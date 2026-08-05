@@ -25,7 +25,7 @@ Every cert in this series is scored on the same 7-dimension scale, so the result
 | **R** | Reliability | Does the platform/exam environment hold up technically |
 | **R** | Rigor | Is the grading consistent and fair relative to what was demonstrated |
 | **O** | Outcome | How much this actually signals to an employer |
-| **W** | Worth | Price paid vs. everything above, combined |
+| **W** | Worth | Value for Money. Is the price fair for what you tangibly get, content, prep material, exam attempts, validity period, independent of whether it pays off career-wise (that's Outcome's job) |
 
 **Weighting.** Practicality, Outcome and Worth matter most to someone deciding if a cert is worth their time and money, so they carry the heaviest weight. Scope and Rigor come next: once you commit to an exam, you want it to test what it claims and grade you fairly. Access and Reliability carry the lowest weight: useful context, but the least decisive factor in whether the cert itself is worth it.
 
@@ -43,7 +43,7 @@ Overall score = (sum of each dimension's score x its tier weight) / (sum of all 
 
 | Cert | Date | Overall Score | Review |
 |---|:---:|:---:|---|
-| SEC0 - Pre Security | 06.03.2026 | **4.33/10** | [Full review](sec0-review/) |
+| SEC0 - Pre Security | 06.03.2026 | **4.88/10** | [Full review](sec0-review/) |
 | SEC1 - Cyber Security 101 | - | - | coming soon |
 | SAL1 - Security Analyst L1 | - | - | coming soon |
 | SAL2 - Security Analyst L2 | - | - | coming soon |
