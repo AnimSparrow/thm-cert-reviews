@@ -13,6 +13,16 @@
 
 After Action Reports on TryHackMe professional certifications. Not marketing copy, not a portal-style review. Each one covers what the exam actually tested, how it went, where it fell short, and an honest score, followed by two summary reviews once all 7 are done: one from the perspective of someone earning the certs, one from the perspective of someone hiring for them.
 
+<p align="center">
+  <a href="https://tryhackme.com/certifications?view=bundles">
+    <img src="assets/promo.svg" width="780" alt="20 percent off with code KAROL20, works on single certs and bundles">
+  </a>
+</p>
+
+<p align="center">
+  Use code <code>KAROL20</code> on any <a href="https://tryhackme.com/certifications"><b>certification</b></a> or on <a href="https://tryhackme.com/certifications?view=bundles"><b>BUNDLES</b></a> for 20% off
+</p>
+
 ## Methodology: S.P.A.R.R.O.W. Score
 
 Every cert in this series is scored on the same 7-dimension scale, so the results stay comparable.
