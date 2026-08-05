@@ -20,6 +20,17 @@
   <img src="assets/scorecard.svg" width="720" alt="SEC0 S.P.A.R.R.O.W. scorecard, overall 4.88 out of 10">
 </p>
 
+<p align="center">
+  <a href="https://tryhackme.com/certifications?view=bundles">
+    <img src="../assets/promo.svg" width="780" alt="20 percent off with code KAROL20, works on single certs and bundles">
+  </a>
+</p>
+
+<p align="center">
+  Use code <code>KAROL20</code> on <a href="https://tryhackme.com/certification/pre-security/details"><b>SEC0</b></a> or <a href="https://tryhackme.com/certifications?view=bundles"><b>BUNDLES</b></a> for 20% off
+</p>
+
+
 ## Exam Parameters
 
 General facts about the cert itself, not about how I personally did (that's further down, next to the certificate).
@@ -123,6 +134,10 @@ If you are starting from zero certs, first job after school, or switching in fro
 | Overall feel | Easy |
 
 ---
+
+<p align="center">
+  <a href="../README.md">All reviews in this series</a>
+</p>
 
 <p align="center">
   <a href="../README.md">
