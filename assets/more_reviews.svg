@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 470 46" width="470" height="46" role="img" aria-label="More TryHackMe cert reviews">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1a0633"/><stop offset="100%" stop-color="#3a0a5e"/>
+    </linearGradient>
+  </defs>
+  <style>text{font-family:ui-monospace,'SF Mono',Menlo,Consolas,monospace}</style>
+
+  <rect x="0.5" y="0.5" width="469" height="45" rx="10" fill="url(#bg)" stroke="#FF2A6D" stroke-opacity="0.45"/>
+
+  <rect x="16" y="13" width="20" height="20" rx="4" fill="#00F0FF"/>
+  <text x="26" y="27" fill="#1a0633" font-size="11" font-weight="700" text-anchor="middle">TH</text>
+
+  <text x="248" y="28" fill="#F8E8FF" font-size="12" font-weight="600" letter-spacing="1.4" text-anchor="middle">MORE TRYHACKME CERT REVIEWS</text>
+
+  <text x="450" y="29" fill="#00F0FF" font-size="15" font-weight="700" text-anchor="end">&#8594;</text>
+</svg>
