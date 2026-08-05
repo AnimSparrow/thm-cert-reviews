@@ -61,6 +61,13 @@ Once all 7 certs are reviewed:
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/animsparrow/">LinkedIn</a> ·
-  <a href="https://tryhackme.com">TryHackMe</a>
+  <a href="https://www.linkedin.com/in/animsparrow">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://tryhackme.com/p/Animsparrow">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
+  </a>
+  <a href="https://www.credly.com/users/karol-wroblewski.65e1a9b0/badges">
+    <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/>
+  </a>
 </p>
