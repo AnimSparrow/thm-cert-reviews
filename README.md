@@ -50,13 +50,14 @@ Every cert in this series is scored on the same 7-dimension scale, so the result
 Overall score = (sum of each dimension's score x its tier weight) / (sum of all tier weights), out of 10.
 
 ## All Reviews
-
+> As of 07.08.2026, SAL2 completed the set — first TryHackMe user to hold every certification (confirmed with THM admin). 🥇
+> 
 | Cert | Date | Overall Score | Review |
 |---|:---:|:---:|---|
 | SEC0 - Pre Security | 06.03.2026 | **4.88/10** | [Full review](sec0-review/) |
 | SEC1 - Cyber Security 101 | - | - | coming soon |
 | SAL1 - Security Analyst L1 | - | - | coming soon |
-| SAL2 - Security Analyst L2 | - | - | coming soon |
+| SAL2 - Security Analyst L2 | 07.08.2026 | **8.75/10** | [Full review](sal2-review/) |
 | PT1 - Junior Penetration Tester | - | - | coming soon |
 | WEB1 - Web Application Security | - | - | coming soon |
 | AI1 - AI Security | - | - | coming soon |
