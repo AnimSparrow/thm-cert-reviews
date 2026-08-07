@@ -120,11 +120,11 @@ Take SAL2 if you're a SOC/DFIR analyst ready to prove you operate at L2: cross-d
 ## Certificate
 
 <p align="center">
-  <img src="https://tryhackme-images.s3.amazonaws.com/certificates/SAL2-CERT-PLACEHOLDER.png" width="700" alt="SAL2 certificate">
+  <img src="https://assets.tryhackme.com/certification-certificate/6a74c2c3c0fdc71f01e26835.png" width="700" alt="SAL2 certificate">
 </p>
 
 <p align="center">
-  <a href="https://tryhackme.com/certification/verify/REPLACE_WITH_YOUR_CODE">
+  <a href="https://tryhackme.com/certification/certificate/0123dd11-a457-467d-8b5a-bda89ccfcf3a">
     <img src="https://img.shields.io/badge/VIEW_CREDENTIAL-1a0633?style=for-the-badge&labelColor=00F0FF">
   </a>
 </p>
