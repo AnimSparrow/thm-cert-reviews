@@ -139,11 +139,12 @@ Take SAL2 if you're a SOC/DFIR analyst ready to prove you operate at L2: cross-d
 | **Overall feel** | Home turf. All in or nothing. |
 
 This was the final cert in the collection, which (confirmed with TryHackMe's admin team, as of 07.08.2026) makes me the first user on the platform to hold the complete set. That milestone is a big part of why this one mattered.
-
 ---
 
 <p align="center">
-  <a href="../README.md"><img src="https://img.shields.io/badge/%E2%86%90_ALL_REVIEWS-1a0633?style=for-the-badge&labelColor=FF2A6D"></a>
+  <a href="../README.md">
+    <img src="../assets/more_reviews.svg" width="470" alt="More TryHackMe cert reviews">
+  </a>
 </p>
 
 <p align="center">
