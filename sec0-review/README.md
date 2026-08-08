@@ -136,12 +136,8 @@ If you are starting from zero certs, first job after school, or switching in fro
 ---
 
 <p align="center">
-  <a href="../README.md">All reviews in this series</a>
-</p>
-
-<p align="center">
   <a href="../README.md">
-    <img src="../assets/more_reviews.svg" width="360" alt="More TryHackMe cert reviews">
+    <img src="../assets/more_reviews.svg" width="470" alt="More TryHackMe cert reviews">
   </a>
 </p>
 
@@ -156,3 +152,4 @@ If you are starting from zero certs, first job after school, or switching in fro
     <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/>
   </a>
 </p>
+
