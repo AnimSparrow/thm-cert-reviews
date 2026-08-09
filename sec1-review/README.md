@@ -65,17 +65,6 @@ I took my first attempt on 1 March 2026 and passed. This was a huge moment for m
 
 The second attempt on 7 March 2026 happened entirely by accident. I clicked "retake" just to read the conditions, and the timer started instantly. Panic set in - I wasn't sure if ignoring it would revoke my original cert -so I sat down and passed again. Two passes, one accidental proof that the exam is repeatable.
 
-Exam stats:
-
-    Result: Pass
-
-    Attempt: 2 (both passed—the second was just curiosity about retake conditions)
-
-    Duration: 3h 23m 15s
-
-    Required pass score: 455
-
-    My score: 570
 ## Friction Points
 
 > [!WARNING]
