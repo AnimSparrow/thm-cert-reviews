@@ -57,8 +57,25 @@ My preparation was a mix of the day job and TryHackMe. At the time of writing I 
 
 The exam itself I sat in one sitting, section by section, and finished in about three and a half hours.
 
-There is one story worth telling because it explains why this shows two dates. I passed on my first attempt on 1 March. A few days later I went to look at the retake conditions out of pure curiosity, and the moment I clicked the button the timer started. That gave me a small fright, because I was not sure whether ignoring a live attempt would revoke my original certificate. So I sat back down and did the whole thing again, and passed a second time on 7 March, which is why 7 March is the official date on the credential. Both attempts passed. It was, accidentally, the most thorough way to confirm the exam is repeatable.
+## How It Went
 
+SEC1 was, historically speaking, my first certification attempt but officially my second in terms of final certificate date. Let me explain.
+
+I took my first attempt on 1 March 2026 and passed. This was a huge moment for me - my first TryHackMe certification and my first real hands-on exam in my life, not some multiple-choice quiz about what button does what in a specific tool. I remember the excitement clearly. It cemented something I already believed: the IT world, especially cybersecurity, should reward practice over trivia. "What is the name of the option in application X to do Y?" Looking at you, CompTIA.
+
+The second attempt on 7 March 2026 happened entirely by accident. I clicked "retake" just to read the conditions, and the timer started instantly. Panic set in - I wasn't sure if ignoring it would revoke my original cert -so I sat down and passed again. Two passes, one accidental proof that the exam is repeatable.
+
+Exam stats:
+
+    Result: Pass
+
+    Attempt: 2 (both passed—the second was just curiosity about retake conditions)
+
+    Duration: 3h 23m 15s
+
+    Required pass score: 455
+
+    My score: 570
 ## Friction Points
 
 > [!WARNING]
