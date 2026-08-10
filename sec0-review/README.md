@@ -3,13 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TRYHACKME-1a0633?style=for-the-badge&labelColor=FF2A6D">
-  <img src="https://img.shields.io/badge/PRE--SECURITY-1a0633?style=for-the-badge&labelColor=00F0FF">
-  <img src="https://img.shields.io/badge/CERT_%231-1a0633?style=for-the-badge&labelColor=A479C4">
+  <img src="https://img.shields.io/badge/PLATFORM-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=00F0FF">
+  <img src="https://img.shields.io/badge/FOCUS-INTRO_TO_IT-1a0633?style=for-the-badge&labelColor=A479C4">
+  <img src="https://img.shields.io/badge/CERT-SEC0-1a0633?style=for-the-badge&labelColor=FF2A6D">
   <img src="https://img.shields.io/badge/OVERALL_SCORE-4.88%2F10-1a0633?style=for-the-badge&labelColor=00F0FF">
 </p>
-
----
 
 ## Overview
 
