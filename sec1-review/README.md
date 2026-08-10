@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/PLATFORM-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=00F0FF">
-  <img src="https://img.shields.io/badge/LEVEL-FUNDAMENTALS-1a0633?style=for-the-badge&labelColor=A479C4">
+  <img src="https://img.shields.io/badge/FOCUS-INTRO_TO_CYBER-1a0633?style=for-the-badge&labelColor=A479C4">
   <img src="https://img.shields.io/badge/CERT-SEC1-1a0633?style=for-the-badge&labelColor=FF2A6D">
   <img src="https://img.shields.io/badge/OVERALL_SCORE-6.83%2F10-1a0633?style=for-the-badge&labelColor=00F0FF">
 </p>
