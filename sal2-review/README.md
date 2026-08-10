@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PLATFORM-TryHackMe-1a0633?style=for-the-badge&labelColor=FF2A6D">
-  <img src="https://img.shields.io/badge/CATEGORY-DEFENSIVE_%C2%B7_SOC_L2-1a0633?style=for-the-badge&labelColor=A479C4">
-  <img src="https://img.shields.io/badge/FINAL_CERT-FULL_SET-1a0633?style=for-the-badge&labelColor=00F0FF">
+  <img src="https://img.shields.io/badge/PLATFORM-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=00F0FF">
+  <img src="https://img.shields.io/badge/FOCUS-BLUE_TEAM-1a0633?style=for-the-badge&labelColor=A479C4">
+  <img src="https://img.shields.io/badge/CERT-SAL2-1a0633?style=for-the-badge&labelColor=FF2A6D">
   <img src="https://img.shields.io/badge/OVERALL_SCORE-8.75%2F10-1a0633?style=for-the-badge&labelColor=00F0FF">
 </p>
 
