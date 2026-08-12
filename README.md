@@ -58,7 +58,7 @@ Overall score = (sum of each dimension's score x its tier weight) / (sum of all 
 | SEC1 - Cyber Security 101 | 07.03.2026 | **6.83/10** | [Full review](sec1-review/) |
 | SAL1 - Security Analyst L1 | 18.07.2026 | **7.21/10** | [Full review](sal1-review/) |
 | SAL2 - Security Analyst L2 | 07.08.2026 | **8.75/10** | [Full review](sal2-review/) |
-| PT1 - Junior Penetration Tester | 05.04.2026 | **7.38/10** | | [Full review](pt1-review/) |
+| PT1 - Junior Penetration Tester | 05.04.2026 | **7.38/10** | [Full review](pt1-review/) |
 | WEB1 - Web Application Security | - | - | coming soon |
 | AI1 - AI Security | - | - | coming soon |
 
