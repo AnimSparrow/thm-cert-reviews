@@ -12,7 +12,7 @@
 ## Overview
 
 > [!NOTE]
-> **TL;DR** WEB1 (Web Application Pentester Level 1) is TryHackMe's focused web pentesting certification: one 48-hour engagement across three access models, blackbox, whitebox and greybox, scored on per-vulnerability flags plus a short report for each finding. After PT1 taught me that web is my hardest and most rewarding ground, WEB1 handed me the same lesson again. I crushed the blackbox and whitebox sections at around 98% each inside the first hour, then walked straight into a greybox wall that cost me nearly 46 hours, a night's sleep, and a human review before it accepted my pass at 741. It is a genuinely strong, non-standard exam, and the newest cert in my collection, and it is already the one I see most in other people's CVs. Weighted score: **7.58 / 10**.
+> **TL;DR** WEB1 (Web Application Pentester Level 1) is TryHackMe's focused web pentesting certification: one 48-hour engagement across three access models, blackbox, whitebox and greybox, scored on per-vulnerability flags plus a short report for each finding. After PT1 taught me that web is my hardest and most rewarding ground, WEB1 handed me the same lesson again. I crushed the blackbox and whitebox sections at around 98% each inside the first hour, then walked straight into a greybox wall that cost me nearly 46 hours, a night's sleep, and a human review before it accepted my pass at 741. It is a genuinely strong, non-standard exam, and the newest cert in my collection, and it is already the one I saw in other people's CVs more than once! Weighted score: **7.58 / 10**.
 
 <p align="center">
   <img src="assets/scorecard.svg" width="780" alt="WEB1 SPARROW scorecard, overall 7.58 out of 10">
@@ -49,13 +49,13 @@
 
 WEB1 is one long web engagement cut into three access models, and the split is the smartest thing about it.
 
-The blackbox section puts you in the shoes of an external attacker with no source and no credentials, working only from what the application exposes. The whitebox section flips that entirely: you get full access, including source, and the work becomes code-review-driven, tracing flaws back to the lines that cause them. In both of those sections a single flag plus its write-up was enough to clear the part, and I finished them at roughly 98% each within about the first hour. It felt like a walk in the park, and I was genuinely excited, because that pace was direct proof of how much I had learned since PT1.
+The blackbox section puts you in the shoes of an external attacker with no source and no credentials, working only from what the application exposes. The whitebox section flips that entirely: you get full access, including source, and the work becomes code-review-driven, tracing flaws back to the lines that cause them. In both of those sections, a single flag plus its write-up was enough to clear the part, and I finished them at roughly 98% each within about the first hour. It felt like a walk in the park, and I was genuinely excited, because that pace was direct proof of how much I had learned since PT1.
 
 Then comes greybox, which is 60% of the entire exam and a completely different animal. It is the collision with reality. This is where WEB1 stops being a Level 1 anything and starts demanding the intermediate material the syllabus quietly lists: request smuggling, race conditions, insecure deserialisation, prototype pollution, the modern web attack surface in full. The findings expect non-standard thinking, and the flag is where the points live. Working from my own exam report, the tasks are engaging, they reward creativity, and they are an honest reflection of real web assessment work, the kind where the interesting bug and the flag that proves it are not always in the same place.
 
 ## Mission Debrief
 
-This was my longest exam by far, 45 hours and change, and the first time I deliberately built recovery into the window. I slept, and midway through I went out with friends to an outdoor escape room to reset my head, which is the single healthiest thing I have done during any of these. I took it on a Saturday, so the only person around to bounce a thought off was Liza (hi, and thank you: https://www.linkedin.com/in/ekrud/), and even then I knew better than to drag people away from their weekend to untangle an exam.
+This was my longest exam by far, 45 hours and change, and the first time I deliberately built recovery into the window. I slept, and midway through I went out with friends to an outdoor escape room to reset my head, which is the single healthiest thing I have done during any of these. I took it on a Saturday, so the only person around to bounce a thought off was Liza <3 (hi, and thank you: https://www.linkedin.com/in/ekrud/), and even then I knew better and do not want to drag people away from their weekend to untangle my exam.
 
 The greybox stretch is the story. In the first few minutes I turned up a strange artifact that was clearly not a real flag, and I had no way to know if it was a hint, a bug, noise, or an easter egg, so I noted it and moved on. My first real flag did not land until about four hours in, and the PT1 flashbacks arrived right on cue. More hours bought me a second flag. The third, fourth and fifth never showed. I found several other things that did not resolve into flags, then circled back to that early oddity and finally broke it open, and it turned out to be a genuinely powerful exploit that handed me full control of the target, exactly the kind of finding you want, but still no flag attached. I turned the room over to the very end and knew the maths did not close: the flag carries the points, and without it I needed one of my unflagged findings to be accepted on the report alone. I came up short, but short by little enough that if the bug I had fully exploited was credited its flag, I passed. On the Tuesday, the review did exactly that, added the flag, and the result was accepted at 741 with no doubt about it. The other findings I filed as bugs, though some may well be out of scope or noise.
 
@@ -99,7 +99,7 @@ On preparation, I had worked the recommended material and labs and I passed, but
 
 ## Verdict
 
-Take WEB1 if web is your lane and you want to be tested across all three ways a real assessment happens, not just the external view. It is the rare exam that grades a whitebox source review at all, let alone at this price, it rewards creative exploitation over checklist-running, and it pairs naturally as the web-depth step before PT1. Set expectations in two places: the greybox section is intermediate despite the "Level 1" badge, so do not let the name lull your preparation, and understand that the flag carries the finding, so a bug you cannot flag will hurt even when your exploitation and write-up are excellent. For anyone serious about application security who wants proof that runs deeper than a quiz, this is a strong, satisfying exam, and its early visibility on the market suggests it is going to matter.
+Take WEB1 if web is your lane and you want to be tested across all three ways a real assessment happens, not just the external view. It is the rare exam that grades a whitebox source review at all, let alone at this price, it rewards creative exploitation over checklist-running, and it pairs naturally as the web-depth step before PT1. Set expectations in two places: the greybox section is intermediate despite the "Level 1" badge, so do not let the name trick you, focus on your preparation, and understand that the flag carries the finding, so a bug you cannot flag will hurt even when your exploitation and write-up are excellent. For anyone serious about application security who wants proof that runs deeper than a quiz, this is a strong, satisfying exam, and its early visibility on the market suggests it is going to matter.
 
 ## Lessons Learned
 
@@ -129,7 +129,7 @@ Take WEB1 if web is your lane and you want to be tested across all three ways a 
 | Time used | 45h 44m 42s, my longest exam yet |
 | Attempt | 1 (passed, with the deciding flag credited on human review) |
 | Dates | Sat 24 July 2026, result accepted 26 July 2026 |
-| Overall feel | Hardest and most rewarding section of my whole collection, twice confirmed |
+| Overall feel | Hardest and most rewarding section of my whole collection, confirmed second time |
 
 ---
 
