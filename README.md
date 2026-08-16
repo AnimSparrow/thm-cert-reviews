@@ -1,6 +1,11 @@
-[![TryHackMe Certification Reviews](assets/hero-banner.svg)](assets/hero-banner.svg)
+<p align="center">
+  <img src="assets/hero-banner.svg" alt="TryHackMe Certification Reviews">
+</p>
 
-![](https://img.shields.io/badge/REVIEWS-7%2F7_COMPLETE-1a0633?style=for-the-badge&labelColor=FF2A6D) ![](https://img.shields.io/badge/METHOD-S.P.A.R.R.O.W.-1a0633?style=for-the-badge&labelColor=00F0FF)
+<p align="center">
+  <img src="https://img.shields.io/badge/REVIEWS-7%2F7_COMPLETE-1a0633?style=for-the-badge&labelColor=FF2A6D">
+  <img src="https://img.shields.io/badge/METHOD-S.P.A.R.R.O.W.-1a0633?style=for-the-badge&labelColor=00F0FF">
+</p>
 
 ---
 
@@ -63,10 +68,20 @@ Once all 7 certs are reviewed:
 
 ---
 
-[![20 percent off with code KAROL20, works on single certs and bundles](assets/promo.svg)](https://tryhackme.com/certifications?view=bundles)
+<p align="center">
+  <a href="https://tryhackme.com/certifications?view=bundles">
+    <img src="assets/promo.svg" alt="20 percent off with code KAROL20, works on single certs and bundles">
+  </a>
+</p>
 
-Use code `KAROL20` on any [**certification**](https://tryhackme.com/certifications) or on [**BUNDLES**](https://tryhackme.com/certifications?view=bundles) for 20% off
+<p align="center">
+  Use code <code>KAROL20</code> on any <a href="https://tryhackme.com/certifications"><b>certification</b></a> or on <a href="https://tryhackme.com/certifications?view=bundles"><b>BUNDLES</b></a> for 20% off
+</p>
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/animsparrow) [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Animsparrow) [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/karol-wroblewski.65e1a9b0/badges)
+<p align="center">
+  <a href="https://www.linkedin.com/in/animsparrow"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://tryhackme.com/p/Animsparrow"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"></a>
+  <a href="https://www.credly.com/users/karol-wroblewski.65e1a9b0/badges"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white"></a>
+</p>
