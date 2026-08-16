@@ -18,16 +18,6 @@
   <img src="assets/scorecard.svg" width="780" alt="PT1 SPARROW scorecard, overall 7.38 out of 10">
 </p>
 
-<p align="center">
-  <a href="https://tryhackme.com/certifications?view=bundles">
-    <img src="../assets/promo.svg" width="780" alt="20 percent off with code KAROL20, works on single certs and bundles">
-  </a>
-</p>
-
-<p align="center">
-  Use code <code>KAROL20</code> on <a href="https://tryhackme.com/certification/junior-penetration-tester"><b>PT1</b></a> or <a href="https://tryhackme.com/certifications?view=bundles"><b>BUNDLES</b></a> for 20% off
-</p>
-
 ## Exam Parameters
 
 | Parameter | Detail |
@@ -130,6 +120,18 @@ Take PT1 if you want to be tested like a real pentester rather than quizzed like
 | Attempt 2 | 5 April 2026 — Pass, 743 raised to 751 after human report review |
 | Time used | Two sittings of roughly 20 hours each |
 | Overall feel | My nemesis. The one that earned every point the hard way. |
+
+---
+
+<p align="center">
+  <a href="https://tryhackme.com/certifications?view=bundles">
+    <img src="../assets/promo.svg" width="780" alt="20 percent off with code KAROL20, works on single certs and bundles">
+  </a>
+</p>
+
+<p align="center">
+  Use code <code>KAROL20</code> on <a href="https://tryhackme.com/certification/junior-penetration-tester"><b>PT1</b></a> or <a href="https://tryhackme.com/certifications?view=bundles"><b>BUNDLES</b></a> for 20% off
+</p>
 
 ---
 
