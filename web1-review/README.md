@@ -18,16 +18,6 @@
   <img src="assets/scorecard.svg" width="780" alt="WEB1 SPARROW scorecard, overall 7.58 out of 10">
 </p>
 
-<p align="center">
-  <a href="https://tryhackme.com/certifications?view=bundles">
-    <img src="../assets/promo.svg" width="780" alt="20 percent off with code KAROL20, works on single certs and bundles">
-  </a>
-</p>
-
-<p align="center">
-  Use code <code>KAROL20</code> on <a href="https://tryhackme.com/certification/web-application-pentester-level-1"><b>WEB1</b></a> or <a href="https://tryhackme.com/certifications?view=bundles"><b>BUNDLES</b></a> for 20% off
-</p>
-
 ## Exam Parameters
 
 | Parameter | Detail |
@@ -130,6 +120,18 @@ Take WEB1 if web is your lane and you want to be tested across all three ways a 
 | Attempt | 1 (passed, with the deciding flag credited on human review) |
 | Dates | Sat 24 July 2026, result accepted 26 July 2026 |
 | Overall feel | Hardest and most rewarding section of my whole collection, confirmed second time |
+
+---
+
+<p align="center">
+  <a href="https://tryhackme.com/certifications?view=bundles">
+    <img src="../assets/promo.svg" width="780" alt="20 percent off with code KAROL20, works on single certs and bundles">
+  </a>
+</p>
+
+<p align="center">
+  Use code <code>KAROL20</code> on <a href="https://tryhackme.com/certification/web-application-pentester-level-1"><b>WEB1</b></a> or <a href="https://tryhackme.com/certifications?view=bundles"><b>BUNDLES</b></a> for 20% off
+</p>
 
 ---
 
