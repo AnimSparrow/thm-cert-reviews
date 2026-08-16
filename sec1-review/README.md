@@ -18,16 +18,6 @@
   <img src="assets/scorecard.svg" width="780" alt="SEC1 SPARROW scorecard, overall 7.04 out of 10">
 </p>
 
-<p align="center">
-  <a href="https://tryhackme.com/certifications?view=bundles">
-    <img src="../assets/promo.svg" width="780" alt="20 percent off with code KAROL20, works on single certs and bundles">
-  </a>
-</p>
-
-<p align="center">
-  Use code <code>KAROL20</code> on <a href="https://tryhackme.com/certification/cyber-security-101"><b>SEC1</b></a> or <a href="https://tryhackme.com/certifications?view=bundles"><b>BUNDLES</b></a> for 20% off
-</p>
-
 ## Exam Parameters
 
 | Parameter | Detail |
@@ -133,6 +123,18 @@ Take SEC1 if you are early in cyber or switching in from another part of IT and 
 | Attempt | 2 (both attempts passed, the second was an accidental retake) |
 | Dates | Passed 1 March 2026, re-passed 7 March 2026 (official date) |
 | Overall feel | Enjoyable |
+
+---
+
+<p align="center">
+  <a href="https://tryhackme.com/certifications?view=bundles">
+    <img src="../assets/promo.svg" width="780" alt="20 percent off with code KAROL20, works on single certs and bundles">
+  </a>
+</p>
+
+<p align="center">
+  Use code <code>KAROL20</code> on <a href="https://tryhackme.com/certification/cyber-security-101"><b>SEC1</b></a> or <a href="https://tryhackme.com/certifications?view=bundles"><b>BUNDLES</b></a> for 20% off
+</p>
 
 ---
 
