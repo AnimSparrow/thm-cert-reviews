@@ -10,7 +10,7 @@
   <path d="M 16,1 L 76,1 L 16,61 Z" fill="#FF2A6D" opacity="0.10"/>
 
   <text x="28" y="38" fill="url(#hero)" font-size="18" font-weight="700" filter="url(#glow)">THE COLLECTION, READ BY A RECRUITER</text>
-  <text x="28" y="56" fill="#A479C4" font-size="10" font-weight="600">dots = strength &#183; pink track = ATS / name recognition &#183; cyan track = interview proof</text>
+  <text x="28" y="56" fill="#A479C4" font-size="10" font-weight="600">dots = strength &#183; red track = ATS / name recognition &#183; cyan track = interview proof</text>
 
   <!-- column headers -->
   <text x="28" y="82" fill="#6E5397" font-size="9" font-weight="700" letter-spacing="1">CERT</text>
