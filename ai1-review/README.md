@@ -18,16 +18,6 @@
   <img src="assets/scorecard.svg" width="780" alt="AI1 SPARROW scorecard, overall 7.46 out of 10">
 </p>
 
-<p align="center">
-  <a href="https://tryhackme.com/certifications?view=bundles">
-    <img src="../assets/promo.svg" width="780" alt="20 percent off with code KAROL20, works on single certs and bundles">
-  </a>
-</p>
-
-<p align="center">
-  Use code <code>KAROL20</code> on <a href="https://tryhackme.com/certification/ai-security"><b>AI1</b></a> or <a href="https://tryhackme.com/certifications?view=bundles"><b>BUNDLES</b></a> for 20% off
-</p>
-
 ## Exam Parameters
 
 | Parameter | Detail |
@@ -129,6 +119,18 @@ Take AI1 if you want to prove you genuinely understand modern AI systems, not ju
 | Date | 25 June 2026 |
 | Note | Two sections were under-scored by a since-fixed grading bug, so my true result likely sits higher |
 | Overall feel | Broader than expected, and the most practical AI cert I hold |
+
+---
+
+<p align="center">
+  <a href="https://tryhackme.com/certifications?view=bundles">
+    <img src="../assets/promo.svg" width="780" alt="20 percent off with code KAROL20, works on single certs and bundles">
+  </a>
+</p>
+
+<p align="center">
+  Use code <code>KAROL20</code> on <a href="https://tryhackme.com/certification/ai-security"><b>AI1</b></a> or <a href="https://tryhackme.com/certifications?view=bundles"><b>BUNDLES</b></a> for 20% off
+</p>
 
 ---
 
