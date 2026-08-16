@@ -18,16 +18,6 @@
   <img src="assets/scorecard.svg" width="780" alt="SAL2 S.P.A.R.R.O.W. scorecard, overall 8.75 out of 10">
 </p>
 
-<p align="center">
-  <a href="https://tryhackme.com/certifications?view=bundles">
-    <img src="../assets/promo.svg" width="780" alt="20 percent off with code KAROL20, works on single certs and bundles">
-  </a>
-</p>
-
-<p align="center">
-  Use code <code>KAROL20</code> on <a href="https://tryhackme.com/certification/security-analyst-level-2"><b>SAL2</b></a> or <a href="https://tryhackme.com/certifications?view=bundles"><b>BUNDLES</b></a> for 20% off
-</p>
-
 ## Exam Parameters
 
 | Item | Detail |
@@ -139,6 +129,19 @@ Take SAL2 if you're a SOC/DFIR analyst ready to prove you operate at L2: cross-d
 | **Overall feel** | Home turf. All in or nothing. |
 
 This was the final cert in the collection, which (confirmed with TryHackMe's admin team, as of 07.08.2026) makes me the first user on the platform to hold the complete set. That milestone is a big part of why this one mattered.
+
+---
+
+<p align="center">
+  <a href="https://tryhackme.com/certifications?view=bundles">
+    <img src="../assets/promo.svg" width="780" alt="20 percent off with code KAROL20, works on single certs and bundles">
+  </a>
+</p>
+
+<p align="center">
+  Use code <code>KAROL20</code> on <a href="https://tryhackme.com/certification/security-analyst-level-2"><b>SAL2</b></a> or <a href="https://tryhackme.com/certifications?view=bundles"><b>BUNDLES</b></a> for 20% off
+</p>
+
 ---
 
 <p align="center">
