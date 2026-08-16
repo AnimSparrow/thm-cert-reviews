@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 300" width="780" height="300" role="img" aria-label="Live market snapshot August 2026: Poland 841 security offers on JustJoin.it, UK ~3,050 cyber jobs with 134 pentester roles, Germany 250-300 pure pentest roles; TryHackMe appears under preferred not required">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#1a0633"/><stop offset="100%" stop-color="#3a0a5e"/></linearGradient>
+    <linearGradient id="hero" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#00F0FF"/><stop offset="100%" stop-color="#00B8D4"/></linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#FF2A6D" stop-opacity="0"/><stop offset="50%" stop-color="#FF2A6D" stop-opacity="0.6"/><stop offset="100%" stop-color="#FF2A6D" stop-opacity="0"/></linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="1.3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <style>text{font-family:ui-monospace,'SF Mono',Menlo,'Cascadia Code',Consolas,monospace}</style>
+  <rect x="0.5" y="0.5" width="779" height="299" rx="16" fill="url(#bg)" stroke="#FF2A6D" stroke-opacity="0.30"/>
+  <path d="M 16,1 L 76,1 L 16,61 Z" fill="#FF2A6D" opacity="0.10"/>
+
+  <text x="24" y="38" fill="url(#hero)" font-size="17" font-weight="700" filter="url(#glow)">LIVE MARKET SNAPSHOT &#183; AUGUST 2026</text>
+  <text x="24" y="56" fill="#A479C4" font-size="9.5" font-weight="600">current European job-board volume, and where TryHackMe actually appears</text>
+  <rect x="24" y="66" width="732" height="1" fill="url(#rule)"/>
+
+  <!-- Poland card -->
+  <g transform="translate(24,80)">
+    <rect x="0" y="0" width="230" height="118" rx="10" fill="#00F0FF" fill-opacity="0.06" stroke="#00F0FF" stroke-opacity="0.5"/>
+    <text x="16" y="22" fill="#00F0FF" font-size="9" font-weight="700" letter-spacing="0.5">POLAND &#183; JustJoin.it</text>
+    <text x="16" y="66" fill="url(#hero)" font-size="38" font-weight="700" filter="url(#glow)">841</text>
+    <text x="16" y="90" fill="#F8E8FF" font-size="10" font-weight="600">active Security-category</text>
+    <text x="16" y="104" fill="#F8E8FF" font-size="10" font-weight="600">job offers</text>
+  </g>
+
+  <!-- UK card -->
+  <g transform="translate(275,80)">
+    <rect x="0" y="0" width="230" height="118" rx="10" fill="#FF2A6D" fill-opacity="0.07" stroke="#FF2A6D" stroke-opacity="0.5"/>
+    <text x="16" y="22" fill="#FF7AA5" font-size="9" font-weight="700" letter-spacing="0.5">UNITED KINGDOM &#183; ITJobsWatch</text>
+    <text x="16" y="62" fill="#FF6699" font-size="34" font-weight="700">~3,050</text>
+    <text x="16" y="82" fill="#F8E8FF" font-size="10" font-weight="600">live cybersecurity jobs</text>
+    <text x="16" y="98" fill="#C9B6E4" font-size="9">134 pentester roles &#183; 6 mo</text>
+    <text x="16" y="110" fill="#C9B6E4" font-size="9">&#163;60k median</text>
+  </g>
+
+  <!-- Germany card -->
+  <g transform="translate(526,80)">
+    <rect x="0" y="0" width="230" height="118" rx="10" fill="#FFB020" fill-opacity="0.10" stroke="#FFB020" stroke-opacity="0.5"/>
+    <text x="16" y="22" fill="#FFD37A" font-size="9" font-weight="700" letter-spacing="0.5">GERMANY &#183; XING / StepStone</text>
+    <text x="16" y="64" fill="#FFC44D" font-size="34" font-weight="700">250&#8211;300</text>
+    <text x="16" y="84" fill="#F8E8FF" font-size="10" font-weight="600">pure pentest roles</text>
+    <text x="16" y="100" fill="#C9B6E4" font-size="9">plus hundreds of broader</text>
+    <text x="16" y="112" fill="#C9B6E4" font-size="9">cyber security roles</text>
+  </g>
+
+  <text x="24" y="216" fill="#A479C4" font-size="9" font-weight="600">Across all three markets, defensive roles (SOC / analyst / GRC) far outnumber pure offensive roles.</text>
+
+  <!-- bottom band -->
+  <g transform="translate(24,226)">
+    <rect x="0" y="0" width="732" height="58" rx="10" fill="#FFB020" fill-opacity="0.10" stroke="#FFB020" stroke-opacity="0.5"/>
+    <text x="16" y="24" fill="#FFD37A" font-size="10.5" font-weight="700">TRYHACKME &#8594; almost never in the requirements line</text>
+    <text x="16" y="44" fill="#F8E8FF" font-size="9.5">almost always under "preferred": platforms like Hack The Box, TryHackMe, Blue Team Labs Online&#8230;</text>
+  </g>
+</svg>

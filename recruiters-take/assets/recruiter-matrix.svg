@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 356" width="780" height="356" role="img" aria-label="Per-cert recruiter read: ATS keyword strength versus interview proof strength and who each cert helps most">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#1a0633"/><stop offset="100%" stop-color="#3a0a5e"/></linearGradient>
+    <linearGradient id="hero" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#00F0FF"/><stop offset="100%" stop-color="#00B8D4"/></linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#FF2A6D" stop-opacity="0"/><stop offset="50%" stop-color="#FF2A6D" stop-opacity="0.6"/><stop offset="100%" stop-color="#FF2A6D" stop-opacity="0"/></linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="1.3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <style>text{font-family:ui-monospace,'SF Mono',Menlo,'Cascadia Code',Consolas,monospace}</style>
+  <rect x="0.5" y="0.5" width="779" height="355" rx="16" fill="url(#bg)" stroke="#FF2A6D" stroke-opacity="0.30"/>
+  <path d="M 16,1 L 76,1 L 16,61 Z" fill="#FF2A6D" opacity="0.10"/>
+
+  <text x="28" y="38" fill="url(#hero)" font-size="18" font-weight="700" filter="url(#glow)">THE COLLECTION, READ BY A RECRUITER</text>
+  <text x="28" y="56" fill="#A479C4" font-size="10" font-weight="600">dots = strength &#183; pink track = ATS / name recognition &#183; cyan track = interview proof</text>
+
+  <!-- column headers -->
+  <text x="28" y="82" fill="#6E5397" font-size="9" font-weight="700" letter-spacing="1">CERT</text>
+  <text x="150" y="82" fill="#FF2A6D" font-size="9" font-weight="700" letter-spacing="1">ATS KEYWORD</text>
+  <text x="300" y="82" fill="#00F0FF" font-size="9" font-weight="700" letter-spacing="1">INTERVIEW PROOF</text>
+  <text x="470" y="82" fill="#6E5397" font-size="9" font-weight="700" letter-spacing="1">MOVES THE NEEDLE FOR</text>
+  <rect x="28" y="88" width="724" height="1" fill="url(#rule)"/>
+
+  <!-- helper: 5-dot meters drawn inline per row -->
+  <!-- Row template: cert(28), ATS dots(150), PROOF dots(300), audience(470) -->
+
+  <!-- SEC0 -->
+  <g transform="translate(0,110)">
+    <text x="28" y="4" fill="#9B7FD4" font-size="13" font-weight="700">SEC0</text>
+    <g fill="#FF2A6D"><circle cx="156" cy="0" r="4.5" opacity="1"/><circle cx="172" cy="0" r="4.5" opacity="0.18"/><circle cx="188" cy="0" r="4.5" opacity="0.18"/><circle cx="204" cy="0" r="4.5" opacity="0.18"/><circle cx="220" cy="0" r="4.5" opacity="0.18"/></g>
+    <g fill="#00F0FF"><circle cx="306" cy="0" r="4.5"/><circle cx="322" cy="0" r="4.5"/><circle cx="338" cy="0" r="4.5" opacity="0.18"/><circle cx="354" cy="0" r="4.5" opacity="0.18"/><circle cx="370" cy="0" r="4.5" opacity="0.18"/></g>
+    <text x="470" y="4" fill="#C9B6E4" font-size="9.5">absolute beginners showing momentum</text>
+  </g>
+  <!-- SEC1 -->
+  <g transform="translate(0,142)">
+    <text x="28" y="4" fill="#9B7FD4" font-size="13" font-weight="700">SEC1</text>
+    <g fill="#FF2A6D"><circle cx="156" cy="0" r="4.5"/><circle cx="172" cy="0" r="4.5" opacity="0.18"/><circle cx="188" cy="0" r="4.5" opacity="0.18"/><circle cx="204" cy="0" r="4.5" opacity="0.18"/><circle cx="220" cy="0" r="4.5" opacity="0.18"/></g>
+    <g fill="#00F0FF"><circle cx="306" cy="0" r="4.5"/><circle cx="322" cy="0" r="4.5"/><circle cx="338" cy="0" r="4.5"/><circle cx="354" cy="0" r="4.5" opacity="0.18"/><circle cx="370" cy="0" r="4.5" opacity="0.18"/></g>
+    <text x="470" y="4" fill="#C9B6E4" font-size="9.5">career switchers finding their lane</text>
+  </g>
+  <!-- SAL1 -->
+  <g transform="translate(0,174)">
+    <text x="28" y="4" fill="#00F0FF" font-size="13" font-weight="700">SAL1</text>
+    <g fill="#FF2A6D"><circle cx="156" cy="0" r="4.5"/><circle cx="172" cy="0" r="4.5"/><circle cx="188" cy="0" r="4.5" opacity="0.18"/><circle cx="204" cy="0" r="4.5" opacity="0.18"/><circle cx="220" cy="0" r="4.5" opacity="0.18"/></g>
+    <g fill="#00F0FF"><circle cx="306" cy="0" r="4.5"/><circle cx="322" cy="0" r="4.5"/><circle cx="338" cy="0" r="4.5"/><circle cx="354" cy="0" r="4.5"/><circle cx="370" cy="0" r="4.5" opacity="0.18"/></g>
+    <text x="470" y="4" fill="#C9B6E4" font-size="9.5">aspiring SOC / blue-team analysts</text>
+  </g>
+  <!-- SAL2 -->
+  <g transform="translate(0,206)">
+    <text x="28" y="4" fill="#00F0FF" font-size="13" font-weight="700">SAL2</text>
+    <g fill="#FF2A6D"><circle cx="156" cy="0" r="4.5"/><circle cx="172" cy="0" r="4.5"/><circle cx="188" cy="0" r="4.5" opacity="0.18"/><circle cx="204" cy="0" r="4.5" opacity="0.18"/><circle cx="220" cy="0" r="4.5" opacity="0.18"/></g>
+    <g fill="#00F0FF"><circle cx="306" cy="0" r="4.5"/><circle cx="322" cy="0" r="4.5"/><circle cx="338" cy="0" r="4.5"/><circle cx="354" cy="0" r="4.5"/><circle cx="370" cy="0" r="4.5"/></g>
+    <text x="470" y="4" fill="#C9B6E4" font-size="9.5">analysts proving depth beyond entry</text>
+  </g>
+  <!-- PT1 -->
+  <g transform="translate(0,238)">
+    <text x="28" y="4" fill="#FF2A6D" font-size="13" font-weight="700">PT1</text>
+    <g fill="#FF2A6D"><circle cx="156" cy="0" r="4.5"/><circle cx="172" cy="0" r="4.5"/><circle cx="188" cy="0" r="4.5" opacity="0.18"/><circle cx="204" cy="0" r="4.5" opacity="0.18"/><circle cx="220" cy="0" r="4.5" opacity="0.18"/></g>
+    <g fill="#00F0FF"><circle cx="306" cy="0" r="4.5"/><circle cx="322" cy="0" r="4.5"/><circle cx="338" cy="0" r="4.5"/><circle cx="354" cy="0" r="4.5"/><circle cx="370" cy="0" r="4.5" opacity="0.18"/></g>
+    <text x="470" y="4" fill="#C9B6E4" font-size="9.5">aspiring pentesters (pair with OSCP path)</text>
+  </g>
+  <!-- WEB1 -->
+  <g transform="translate(0,270)">
+    <text x="28" y="4" fill="#FF2A6D" font-size="13" font-weight="700">WEB1</text>
+    <g fill="#FF2A6D"><circle cx="156" cy="0" r="4.5"/><circle cx="172" cy="0" r="4.5" opacity="0.18"/><circle cx="188" cy="0" r="4.5" opacity="0.18"/><circle cx="204" cy="0" r="4.5" opacity="0.18"/><circle cx="220" cy="0" r="4.5" opacity="0.18"/></g>
+    <g fill="#00F0FF"><circle cx="306" cy="0" r="4.5"/><circle cx="322" cy="0" r="4.5"/><circle cx="338" cy="0" r="4.5"/><circle cx="354" cy="0" r="4.5"/><circle cx="370" cy="0" r="4.5"/></g>
+    <text x="470" y="4" fill="#C9B6E4" font-size="9.5">web / appsec specialists</text>
+  </g>
+  <!-- AI1 -->
+  <g transform="translate(0,302)">
+    <text x="28" y="4" fill="#FFB020" font-size="13" font-weight="700">AI1</text>
+    <g fill="#FF2A6D"><circle cx="156" cy="0" r="4.5"/><circle cx="172" cy="0" r="4.5" opacity="0.18"/><circle cx="188" cy="0" r="4.5" opacity="0.18"/><circle cx="204" cy="0" r="4.5" opacity="0.18"/><circle cx="220" cy="0" r="4.5" opacity="0.18"/></g>
+    <g fill="#00F0FF"><circle cx="306" cy="0" r="4.5"/><circle cx="322" cy="0" r="4.5"/><circle cx="338" cy="0" r="4.5"/><circle cx="354" cy="0" r="4.5" opacity="0.18"/><circle cx="370" cy="0" r="4.5" opacity="0.18"/></g>
+    <text x="470" y="4" fill="#C9B6E4" font-size="9.5">early movers into AI security</text>
+  </g>
+
+  <rect x="28" y="322" width="724" height="1" fill="#5C2A8A" opacity="0.5"/>
+  <text x="28" y="342" fill="#6E5397" font-size="9">Pattern: THM certs run light on the ATS track and heavy on the interview track. Stack them with a recognised name.</text>
+</svg>

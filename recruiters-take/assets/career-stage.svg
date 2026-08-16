@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 308" width="780" height="308" role="img" aria-label="An entry-level certificate moves the needle most for those with no experience and least for senior hires">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#1a0633"/><stop offset="100%" stop-color="#3a0a5e"/></linearGradient>
+    <linearGradient id="hero" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#00F0FF"/><stop offset="100%" stop-color="#00B8D4"/></linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#00F0FF"/><stop offset="100%" stop-color="#7E63B0"/></linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#FF2A6D" stop-opacity="0"/><stop offset="50%" stop-color="#FF2A6D" stop-opacity="0.6"/><stop offset="100%" stop-color="#FF2A6D" stop-opacity="0"/></linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="1.3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <style>text{font-family:ui-monospace,'SF Mono',Menlo,'Cascadia Code',Consolas,monospace}</style>
+  <rect x="0.5" y="0.5" width="779" height="307" rx="16" fill="url(#bg)" stroke="#FF2A6D" stroke-opacity="0.30"/>
+  <path d="M 16,1 L 76,1 L 16,61 Z" fill="#FF2A6D" opacity="0.10"/>
+
+  <text x="28" y="40" fill="url(#hero)" font-size="18" font-weight="700" filter="url(#glow)">WHO AN ENTRY CERT ACTUALLY HELPS</text>
+  <text x="28" y="59" fill="#A479C4" font-size="10.5" font-weight="600">the same SEC0 / SEC1 / SAL1 line moves the needle far more for a newcomer than a veteran</text>
+  <rect x="28" y="70" width="724" height="1" fill="url(#rule)"/>
+
+  <!-- bars: value of an entry cert by candidate stage -->
+  <g transform="translate(70,92)">
+    <!-- baseline -->
+    <line x1="0" y1="120" x2="640" y2="120" stroke="#5C2A8A" stroke-opacity="0.6"/>
+
+    <!-- No experience: 100 -->
+    <rect x="20" y="12" width="110" height="108" rx="6" fill="url(#fade)"/>
+    <text x="75" y="6" fill="#00F0FF" font-size="13" font-weight="700" text-anchor="middle">HIGH</text>
+    <text x="75" y="138" fill="#F8E8FF" font-size="10" font-weight="700" text-anchor="middle">NO EXPERIENCE</text>
+    <text x="75" y="152" fill="#6E5397" font-size="8.5" text-anchor="middle">career switcher</text>
+
+    <!-- Junior: 72 -->
+    <rect x="180" y="42" width="110" height="78" rx="6" fill="url(#fade)" opacity="0.85"/>
+    <text x="235" y="36" fill="#5FD4E6" font-size="12" font-weight="700" text-anchor="middle">GOOD</text>
+    <text x="235" y="138" fill="#F8E8FF" font-size="10" font-weight="700" text-anchor="middle">JUNIOR</text>
+    <text x="235" y="152" fill="#6E5397" font-size="8.5" text-anchor="middle">0&#8211;2 yrs</text>
+
+    <!-- Mid: 40 -->
+    <rect x="340" y="78" width="110" height="42" rx="6" fill="url(#fade)" opacity="0.7"/>
+    <text x="395" y="72" fill="#9B7FD4" font-size="11" font-weight="700" text-anchor="middle">LOW</text>
+    <text x="395" y="138" fill="#F8E8FF" font-size="10" font-weight="700" text-anchor="middle">MID-LEVEL</text>
+    <text x="395" y="152" fill="#6E5397" font-size="8.5" text-anchor="middle">3&#8211;5 yrs</text>
+
+    <!-- Senior: 15 -->
+    <rect x="500" y="103" width="110" height="17" rx="6" fill="url(#fade)" opacity="0.55"/>
+    <text x="555" y="97" fill="#7E63B0" font-size="10" font-weight="700" text-anchor="middle">NEAR ZERO</text>
+    <text x="555" y="138" fill="#F8E8FF" font-size="10" font-weight="700" text-anchor="middle">SENIOR</text>
+    <text x="555" y="152" fill="#6E5397" font-size="8.5" text-anchor="middle">track record rules</text>
+  </g>
+
+  <rect x="28" y="272" width="724" height="1" fill="#5C2A8A" opacity="0.5"/>
+  <text x="28" y="294" fill="#F8E8FF" font-size="11" font-weight="600">With no work history a cert does two jobs: it teaches the baseline and earns the call.</text>
+</svg>
