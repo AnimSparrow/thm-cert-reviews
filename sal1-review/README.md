@@ -18,16 +18,6 @@
   <img src="assets/scorecard.svg" width="780" alt="SAL1 SPARROW scorecard, overall 7.21 out of 10">
 </p>
 
-<p align="center">
-  <a href="https://tryhackme.com/certifications?view=bundles">
-    <img src="../assets/promo.svg" width="780" alt="20 percent off with code KAROL20, works on single certs and bundles">
-  </a>
-</p>
-
-<p align="center">
-  Use code <code>KAROL20</code> on <a href="https://tryhackme.com/certification/security-analyst-level-1"><b>SAL1</b></a> or <a href="https://tryhackme.com/certifications?view=bundles"><b>BUNDLES</b></a> for 20% off
-</p>
-
 ## Exam Parameters
 
 | Parameter | Detail |
@@ -130,6 +120,19 @@ Take SAL1 if you want to prove you can do the job rather than recite it, and esp
 | Attempt | 1 (passed first try) |
 | Date | 18 July 2026 |
 | Overall feel | Comfortable, and the cleanest score in my collection |
+
+---
+
+<p align="center">
+  <a href="https://tryhackme.com/certifications?view=bundles">
+    <img src="../assets/promo.svg" width="780" alt="20 percent off with code KAROL20, works on single certs and bundles">
+  </a>
+</p>
+
+<p align="center">
+  Use code <code>KAROL20</code> on <a href="https://tryhackme.com/certification/security-analyst-level-1"><b>SAL1</b></a> or <a href="https://tryhackme.com/certifications?view=bundles"><b>BUNDLES</b></a> for 20% off
+</p>
+
 
 ---
 
