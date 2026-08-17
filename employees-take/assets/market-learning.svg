@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 262" width="780" height="262" role="img" aria-label="The market is moving toward continuous, hands-on learning: 85 percent of employers plan reskilling, three quarters of large orgs raised cyber training budgets, info security among the fastest-growing roles">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#1a0633"/><stop offset="100%" stop-color="#3a0a5e"/></linearGradient>
+    <linearGradient id="hero" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#00F0FF"/><stop offset="100%" stop-color="#00B8D4"/></linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#FF2A6D" stop-opacity="0"/><stop offset="50%" stop-color="#FF2A6D" stop-opacity="0.6"/><stop offset="100%" stop-color="#FF2A6D" stop-opacity="0"/></linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="1.3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <style>text{font-family:ui-monospace,'SF Mono',Menlo,'Cascadia Code',Consolas,monospace}</style>
+  <rect x="0.5" y="0.5" width="779" height="261" rx="16" fill="url(#bg)" stroke="#FF2A6D" stroke-opacity="0.30"/>
+  <path d="M 16,1 L 76,1 L 16,61 Z" fill="#FF2A6D" opacity="0.10"/>
+
+  <text x="24" y="40" fill="url(#hero)" font-size="18" font-weight="700" filter="url(#glow)">THE MARKET IS MOVING YOUR WAY</text>
+  <text x="24" y="59" fill="#A479C4" font-size="10.5" font-weight="600">continuous, hands-on learning is becoming the norm, not a nice-to-have</text>
+  <rect x="24" y="70" width="732" height="1" fill="url(#rule)"/>
+
+  <g transform="translate(24,84)">
+    <rect x="0" y="0" width="230" height="96" rx="10" fill="#00F0FF" fill-opacity="0.06" stroke="#00F0FF" stroke-opacity="0.5"/>
+    <text x="16" y="48" fill="url(#hero)" font-size="34" font-weight="700" filter="url(#glow)">85%</text>
+    <text x="16" y="70" fill="#F8E8FF" font-size="9.5" font-weight="600">of employers plan to</text>
+    <text x="16" y="83" fill="#F8E8FF" font-size="9.5" font-weight="600">prioritise reskilling</text>
+  </g>
+  <g transform="translate(275,84)">
+    <rect x="0" y="0" width="230" height="96" rx="10" fill="#A479C4" fill-opacity="0.12" stroke="#A479C4" stroke-opacity="0.5"/>
+    <text x="16" y="48" fill="#C9A8E4" font-size="30" font-weight="700">~3 in 4</text>
+    <text x="16" y="70" fill="#F8E8FF" font-size="9.5" font-weight="600">large orgs raised their</text>
+    <text x="16" y="83" fill="#F8E8FF" font-size="9.5" font-weight="600">cyber training budget</text>
+  </g>
+  <g transform="translate(526,84)">
+    <rect x="0" y="0" width="230" height="96" rx="10" fill="#FFB020" fill-opacity="0.10" stroke="#FFB020" stroke-opacity="0.5"/>
+    <text x="16" y="48" fill="#FFD37A" font-size="30" font-weight="700">Top 15</text>
+    <text x="16" y="70" fill="#F8E8FF" font-size="9.5" font-weight="600">fastest-growing roles:</text>
+    <text x="16" y="83" fill="#F8E8FF" font-size="9.5" font-weight="600">security analyst (to 2030)</text>
+  </g>
+
+  <text x="24" y="204" fill="#F8E8FF" font-size="10.5" font-weight="600">Some employers now give time and budget to learn on the clock; others still leave you to fend for yourself.</text>
+  <text x="24" y="224" fill="#A479C4" font-size="10" font-weight="600">Either way, self-driven, hands-on practice is the safest bet you can make on your own career.</text>
+  <text x="24" y="248" fill="#6E5397" font-size="8.5">Sources: WEF Future of Jobs 2025 &#183; ISC2 2026 Security Training Trends &#183; WEF fastest-growing roles</text>
+</svg>
