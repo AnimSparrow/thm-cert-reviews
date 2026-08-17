@@ -1,8 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 300" width="780" height="300" role="img" aria-label="Career arc powered by continuous practice: analyst to engineer to architect, and team lead of six to manager of ten">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 300" width="780" height="300" role="img" aria-label="Career arc powered by continuous practice: analyst to engineer, then a fork into an architect track and a leadership track, with team lead growing into manager; architect and manager sit at the same level">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#1a0633"/><stop offset="100%" stop-color="#3a0a5e"/></linearGradient>
     <linearGradient id="hero" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#00F0FF"/><stop offset="100%" stop-color="#00B8D4"/></linearGradient>
-    <linearGradient id="arcline" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#00F0FF"/><stop offset="100%" stop-color="#FFB020"/></linearGradient>
     <linearGradient id="ruleg" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#FFB020" stop-opacity="0"/><stop offset="50%" stop-color="#FFB020" stop-opacity="0.6"/><stop offset="100%" stop-color="#FFB020" stop-opacity="0"/></linearGradient>
     <filter id="glow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="1.3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
     <filter id="softglow" x="-70%" y="-70%" width="240%" height="240%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
@@ -15,28 +14,45 @@
   <text x="24" y="59" fill="#A479C4" font-size="10.5" font-weight="600">years in IT, almost no cyber, then TryHackMe helped me catch the pack, then pass it</text>
   <rect x="24" y="70" width="732" height="1" fill="url(#ruleg)"/>
 
-  <!-- rising line with nodes -->
-  <polyline points="80,232 240,196 400,150 560,104 690,74" fill="none" stroke="url(#arcline)" stroke-width="3" opacity="0.85"/>
+  <!-- level guide for the top tier (architect + manager share height) -->
+  <line x1="410" y1="120" x2="700" y2="120" stroke="#5C2A8A" stroke-opacity="0.35" stroke-dasharray="3 5"/>
+  <text x="533" y="114" fill="#6E5397" font-size="8" text-anchor="middle">same level</text>
+
+  <!-- trunk: analyst -> engineer -->
+  <polyline points="78,238 210,198" fill="none" stroke="#00F0FF" stroke-width="3" opacity="0.85"/>
+  <!-- technical branch: engineer -> architect -->
+  <polyline points="210,198 418,120" fill="none" stroke="#00F0FF" stroke-width="3" opacity="0.8"/>
+  <!-- leadership branch: engineer -> team lead -> manager -->
+  <polyline points="210,198 418,176" fill="none" stroke="#FFB020" stroke-width="3" opacity="0.85"/>
+  <polyline points="418,176 648,120" fill="none" stroke="#FFB020" stroke-width="3" opacity="0.85"/>
+
+  <!-- branch labels -->
+  <text x="300" y="150" fill="#7FE9F5" font-size="8.5" font-weight="700" letter-spacing="1" text-anchor="middle" transform="rotate(-20 300 150)">TECHNICAL</text>
+  <text x="305" y="200" fill="#FFC44D" font-size="8.5" font-weight="700" letter-spacing="1" text-anchor="middle" transform="rotate(-6 305 200)">LEADERSHIP</text>
 
   <!-- nodes -->
   <g text-anchor="middle">
-    <circle cx="80" cy="232" r="8" fill="#00F0FF" filter="url(#softglow)"/>
-    <text x="80" y="258" fill="#F8E8FF" font-size="11" font-weight="700">ANALYST</text>
+    <circle cx="78" cy="238" r="8" fill="#00F0FF" filter="url(#softglow)"/>
+    <text x="78" y="262" fill="#F8E8FF" font-size="11" font-weight="700">ANALYST</text>
 
-    <circle cx="240" cy="196" r="8" fill="#00F0FF" filter="url(#softglow)"/>
-    <text x="240" y="222" fill="#F8E8FF" font-size="11" font-weight="700">ENGINEER</text>
+    <circle cx="210" cy="198" r="8" fill="#00F0FF" filter="url(#softglow)"/>
+    <text x="196" y="222" fill="#F8E8FF" font-size="11" font-weight="700" text-anchor="middle">ENGINEER</text>
 
-    <circle cx="400" cy="150" r="8" fill="#7FE9F5" filter="url(#softglow)"/>
-    <text x="400" y="176" fill="#F8E8FF" font-size="11" font-weight="700">ARCHITECT</text>
+    <!-- architect (technical, top level) -->
+    <circle cx="418" cy="120" r="8" fill="#7FE9F5" filter="url(#softglow)"/>
+    <text x="418" y="108" fill="#F8E8FF" font-size="11" font-weight="700">ARCHITECT</text>
 
-    <circle cx="560" cy="104" r="8" fill="#FFC44D" filter="url(#softglow)"/>
-    <text x="560" y="94" fill="#FFD37A" font-size="11" font-weight="700">TEAM LEAD</text>
-    <text x="560" y="130" fill="#C9B6E4" font-size="9">6 people</text>
+    <!-- team lead (leadership, mid) -->
+    <circle cx="418" cy="176" r="8" fill="#FFC44D" filter="url(#softglow)"/>
+    <text x="418" y="198" fill="#F8E8FF" font-size="11" font-weight="700">TEAM LEAD</text>
+    <text x="418" y="211" fill="#C9B6E4" font-size="9">6 people</text>
 
-    <circle cx="690" cy="74" r="9" fill="#FFB020" filter="url(#softglow)"/>
-    <text x="690" y="64" fill="#FFD37A" font-size="11" font-weight="700">MANAGER</text>
-    <text x="690" y="100" fill="#C9B6E4" font-size="9">10 people</text>
+    <!-- manager (leadership, top level) -->
+    <circle cx="648" cy="120" r="9" fill="#FFB020" filter="url(#softglow)"/>
+    <text x="648" y="108" fill="#FFD37A" font-size="11" font-weight="700">MANAGER</text>
+    <text x="648" y="140" fill="#C9B6E4" font-size="9">10 people</text>
+    <text x="648" y="152" fill="#7FE9F5" font-size="8.5">still an architect</text>
   </g>
 
-  <text x="24" y="286" fill="#F8E8FF" font-size="11" font-weight="600">Same story, different speed: the platform let me compound skill fast enough to keep climbing.</text>
+  <text x="24" y="286" fill="#F8E8FF" font-size="11" font-weight="600">One ladder, then a fork: engineering opened into an architect track and a leadership one, team lead into manager.</text>
 </svg>
