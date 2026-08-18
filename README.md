@@ -1,17 +1,26 @@
-<p align="center">
-  <img src="assets/hero-banner.svg" alt="TryHackMe Certification Reviews">
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/REVIEWS-7%2F7_COMPLETE-1a0633?style=for-the-badge&labelColor=FF2A6D">
-  <img src="https://img.shields.io/badge/METHOD-S.P.A.R.R.O.W.-1a0633?style=for-the-badge&labelColor=00F0FF">
-</p>
+[![TryHackMe Certification Reviews](assets/hero-banner.svg)](assets/hero-banner.svg)
+
+![](https://img.shields.io/badge/REVIEWS-7%2F7_COMPLETE-1a0633?style=for-the-badge&labelColor=FF2A6D)
+![](https://img.shields.io/badge/SUMMARIES-2%2F2_LIVE-1a0633?style=for-the-badge&labelColor=FFB020)
+![](https://img.shields.io/badge/METHOD-S.P.A.R.R.O.W.-1a0633?style=for-the-badge&labelColor=00F0FF)
+
+</div>
 
 ---
 
 ## What this is
 
-After Action Reports on TryHackMe professional certifications. Not marketing copy, not a portal-style review. Each one covers what the exam actually tested, how it went, where it fell short, and an honest score, followed by two summary reviews once all 7 are done: one from the perspective of someone earning the certs, one from the perspective of someone hiring for them.
+After Action Reports on TryHackMe professional certifications. Not marketing copy, not a portal-style review. Each one covers what the exam actually tested, how it went, where it fell short, and an honest score. The set is now complete: all 7 certifications reviewed, plus two summary reviews, one from the perspective of someone earning the certs, one from the perspective of someone hiring for them.
+
+<div align="center">
+
+[![20 percent off with code KAROL20, works on single certs and bundles](assets/promo.svg)](https://tryhackme.com/certifications?view=bundles)
+
+**Use code `KAROL20` on any [certification](https://tryhackme.com/certifications) or on [BUNDLES](https://tryhackme.com/certifications?view=bundles) for 20% off**
+
+</div>
 
 ## Methodology: S.P.A.R.R.O.W. Score
 
@@ -47,41 +56,31 @@ Overall score = (sum of each dimension's score x its tier weight) / (sum of all 
   <img src="assets/collection-scoreboard.svg" width="780" alt="All seven TryHackMe certifications reviewed, ranked by S.P.A.R.R.O.W. score, average 7.16">
 </p>
 
-| Cert                            | Focus         | Date       | Overall Score | Review                                                             |
-| ------------------------------- | ------------- | ---------- | ------------- | ------------------------------------------------------------------ |
-| SEC0 - Pre Security             | Intro to IT   | 06.03.2026 | **4.88/10**   | [Full review](https://github.com/AnimSparrow/thm-cert-reviews/blob/main/reviews/sec0.md) |
-| SEC1 - Cyber Security 101       | Intro to Cyber| 07.03.2026 | **6.83/10**   | [Full review](https://github.com/AnimSparrow/thm-cert-reviews/blob/main/reviews/sec1.md) |
-| PT1 - Junior Penetration Tester | Red Team      | 05.04.2026 | **7.38/10**   | [Full review](https://github.com/AnimSparrow/thm-cert-reviews/blob/main/reviews/pt1.md)  |
-| AI1 - AI Security               | AI Security   | 25.06.2026 | **7.46/10**   | [Full review](https://github.com/AnimSparrow/thm-cert-reviews/blob/main/reviews/ai1.md)  |
-| SAL1 - Security Analyst L1      | Blue Team     | 18.07.2026 | **7.21/10**   | [Full review](https://github.com/AnimSparrow/thm-cert-reviews/blob/main/reviews/sal1.md) |
-| WEB1 - Web App Pentester L1     | Web Security  | 26.07.2026 | **7.58/10**   | [Full review](https://github.com/AnimSparrow/thm-cert-reviews/blob/main/reviews/web1.md) |
-| SAL2 - Security Analyst L2      | Blue Team     | 07.08.2026 | **8.75/10**   | [Full review](https://github.com/AnimSparrow/thm-cert-reviews/blob/main/reviews/sal2.md) |
+| Cert                            | Focus          | Date       | Overall Score | Review                          |
+| ------------------------------- | -------------- | ---------- | ------------- | ------------------------------- |
+| SEC0 - Pre Security             | Intro to IT    | 06.03.2026 | **4.88/10**   | [Full review](sec0-review)      |
+| SEC1 - Cyber Security 101       | Intro to Cyber | 07.03.2026 | **6.83/10**   | [Full review](sec1-review)      |
+| PT1 - Junior Penetration Tester | Red Team       | 05.04.2026 | **7.38/10**   | [Full review](pt1-review)       |
+| AI1 - AI Security               | AI Security    | 25.06.2026 | **7.46/10**   | [Full review](ai1-review)       |
+| SAL1 - Security Analyst L1      | Blue Team      | 18.07.2026 | **7.21/10**   | [Full review](sal1-review)      |
+| WEB1 - Web App Pentester L1     | Web Security   | 26.07.2026 | **7.58/10**   | [Full review](web1-review)      |
+| SAL2 - Security Analyst L2      | Blue Team      | 07.08.2026 | **8.75/10**   | [Full review](sal2-review)      |
 
 **Highest:** SAL2 (8.75) · **Lowest:** SEC0 (4.88) · **Average:** 7.16 across all seven.
 
 ## Summary Reviews
 
-Once all 7 certs are reviewed:
+Two companion pieces that step back from the individual exams and look at the whole picture.
 
-- **The Employee's Take** - why do this at all, what it actually gave me day to day (coming soon)
-- **The Recruiter's Take** - what these certs actually signal on a CV, and what they don't (coming soon)
-
----
-
-<p align="center">
-  <a href="https://tryhackme.com/certifications?view=bundles">
-    <img src="assets/promo.svg" alt="20 percent off with code KAROL20, works on single certs and bundles">
-  </a>
-</p>
-
-<p align="center">
-  Use code <code>KAROL20</code> on any <a href="https://tryhackme.com/certifications"><b>certification</b></a> or on <a href="https://tryhackme.com/certifications?view=bundles"><b>BUNDLES</b></a> for 20% off
-</p>
+- **[The Employee's Take](employees-take)** - why do this at all, and what 7 certs actually gave me day to day. The earner's side: learning first, the cert is the cherry on top.
+- **[The Recruiter's Take](recruiters-take)** - what these certs actually signal on a CV in Europe, and what they don't. The hiring side: recognised names get the interview, TryHackMe wins it.
 
 ---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/animsparrow"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://tryhackme.com/p/Animsparrow"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"></a>
-  <a href="https://www.credly.com/users/karol-wroblewski.65e1a9b0/badges"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white"></a>
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/animsparrow)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Animsparrow)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/karol-wroblewski.65e1a9b0/badges)
+
+</div>
