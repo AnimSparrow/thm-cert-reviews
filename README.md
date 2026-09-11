@@ -58,13 +58,13 @@ Overall score = (sum of each dimension's score x its tier weight) / (sum of all 
 
 | Cert                            | Focus          | Date       | Overall Score | Review                          |
 | ------------------------------- | -------------- | ---------- | ------------- | ------------------------------- |
-| SEC0 - Pre Security             | Intro to IT    | 06.03.2026 | **4.88/10**   | [Full review](sec0-review)      |
-| SEC1 - Cyber Security 101       | Intro to Cyber | 07.03.2026 | **6.83/10**   | [Full review](sec1-review)      |
-| PT1 - Junior Penetration Tester | Red Team       | 05.04.2026 | **7.38/10**   | [Full review](pt1-review)       |
-| AI1 - AI Security               | AI Security    | 25.06.2026 | **7.46/10**   | [Full review](ai1-review)       |
-| SAL1 - Security Analyst L1      | Blue Team      | 18.07.2026 | **7.21/10**   | [Full review](sal1-review)      |
-| WEB1 - Web App Pentester L1     | Web Security   | 26.07.2026 | **7.58/10**   | [Full review](web1-review)      |
-| SAL2 - Security Analyst L2      | Blue Team      | 07.08.2026 | **8.75/10**   | [Full review](sal2-review)      |
+| SEC0 - Pre Security             | Intro to IT    | 06.03.2026 | **4.88/10**   | [Full review](reviews/sec0.md)      |
+| SEC1 - Cyber Security 101       | Intro to Cyber | 07.03.2026 | **6.83/10**   | [Full review](reviews/sec1.md)      |
+| PT1 - Junior Penetration Tester | Red Team       | 05.04.2026 | **7.38/10**   | [Full review](reviews/pt1.md)       |
+| AI1 - AI Security               | AI Security    | 25.06.2026 | **7.46/10**   | [Full review](reviews/ai1.md)       |
+| SAL1 - Security Analyst L1      | Blue Team      | 18.07.2026 | **7.21/10**   | [Full review](reviews/sal1.md)      |
+| WEB1 - Web App Pentester L1     | Web Security   | 26.07.2026 | **7.58/10**   | [Full review](reviews/web1.md)      |
+| SAL2 - Security Analyst L2      | Blue Team      | 07.08.2026 | **8.75/10**   | [Full review](reviews/sal2.md)      |
 
 **Highest:** SAL2 (8.75) · **Lowest:** SEC0 (4.88) · **Average:** 7.16 across all seven.
 
