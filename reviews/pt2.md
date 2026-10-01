@@ -144,6 +144,21 @@ This was the final cert in the collection, which (as of 30.09.2026) makes me the
 
 ---
 
+### A small extra 👀
+
+There is a small CTF hidden in this review.
+
+A **100% PT2 voucher** goes to the first participant who submits the correct final answer. The full competition rules are in the LinkedIn post published alongside this review.
+
+<!-- PT2 VOUCHER CTF — replace this placeholder with the final SVG when the competition goes live.
+
+<p align="center">
+  <img src="../assets/challenges/pt2-voucher-challenge-final.svg" width="900" alt="PT2 Voucher CTF challenge">
+</p>
+-->
+
+---
+
 <p align="center">
   <a href="https://tryhackme.com/certifications?view=bundles">
     <img src="../assets/promo.svg" width="780" alt="20 percent off with code KAROL20, works on single certs and bundles">
