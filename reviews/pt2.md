@@ -18,7 +18,7 @@
   <img src="../assets/scorecards/pt2.svg" width="780" alt="PT2 S.P.A.R.R.O.W. scorecard, overall 8.67 out of 10">
 </p>
 
-> As of **September 30, 2026**, completing PT2 made me the first and only person to hold every TryHackMe certificate. It was the last one on the shelf, and it earned its place. That framing is a big part of why this one mattered.
+> As of **September 30, 2026**, completing PT2 made me the first and only person to hold every TryHackMe certificate #Again :D That framing is a big part of why this one mattered.
 
 ## Exam Parameters
 
@@ -140,7 +140,7 @@ Take PT2 if you have PT1 or equivalent and you want an exam that feels like a re
 | **Attempt** | 1st |
 | **Overall feel** | Fair, connected, and worth the time. Stopped when the last box was solved in principle. |
 
-This was the final cert in the collection, which (as of 30.09.2026) makes me the first and only user on the platform to hold the complete set. That milestone is a big part of why this one mattered.
+This was the final cert in the collection, which (as of 30.09.2026) makes me the first and only user on the platform to hold the complete set #Again :D. That milestone is a big part of why this one mattered.
 
 ---
 
@@ -150,6 +150,9 @@ This was the final cert in the collection, which (as of 30.09.2026) makes me the
   </a>
 </p>
 
+<p align="center">
+  Use code <code>KAROL20</code> on <a href="https://tryhackme.com/certification/penetration-tester-level-2/details"><b>PT2</b></a> or <a href="https://tryhackme.com/certifications?view=bundles"><b>BUNDLES</b></a> for 20% off
+</p>
 
 ---
 
