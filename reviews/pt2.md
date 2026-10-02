@@ -140,8 +140,6 @@ Take PT2 if you have PT1 or equivalent and you want an exam that feels like a re
 | **Attempt** | 1st |
 | **Overall feel** | Fair, connected, and worth the time. Stopped when the last box was solved in principle. |
 
-This was the final cert in the collection, which (as of 30.09.2026) makes me the first and only user on the platform to hold the complete set #Again :D. That milestone is a big part of why this one mattered.
-
 ---
 
 ### A small extra 👀
