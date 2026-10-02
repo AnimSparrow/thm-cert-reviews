@@ -1,0 +1,155 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260" width="900" height="260" role="img" aria-label="PT2 voucher challenge">
+  <title>PT2 VOUCHER // CHALLENGE</title>
+  <desc>
+    Recon: what renders is only the surface. Not every node in this tree is drawn.
+    Hint: I score every cert with the same key.
+  </desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1a0633"/>
+      <stop offset="100%" stop-color="#3a0a5e"/>
+    </linearGradient>
+    <linearGradient id="hero" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00F0FF"/>
+      <stop offset="100%" stop-color="#00B8D4"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FF2A6D" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#FF2A6D" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#FF2A6D" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="1.6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    text{font-family:ui-monospace,'SF Mono',Menlo,'Cascadia Code',Consolas,monospace}
+  </style>
+
+  <rect x="0.5" y="0.5" width="899" height="259" rx="14" fill="url(#bg)" stroke="#FF2A6D" stroke-opacity="0.30"/>
+  <path d="M 16,1 L 84,1 L 16,69 Z" fill="#FF2A6D" opacity="0.10"/>
+  <path d="M 884,259 L 816,259 L 884,191 Z" fill="#00F0FF" opacity="0.08"/>
+
+  <g transform="translate(36,26)">
+    <rect width="110" height="20" rx="5" fill="#FF2A6D" fill-opacity="0.12" stroke="#FF2A6D" stroke-opacity="0.5"/>
+    <text x="55" y="14" fill="#FF2A6D" font-size="11" font-weight="700" letter-spacing="2.5" text-anchor="middle">TRYHACKME</text>
+  </g>
+  <g transform="translate(156,26)">
+    <rect width="132" height="20" rx="5" fill="#00F0FF" fill-opacity="0.10" stroke="#00F0FF" stroke-opacity="0.5"/>
+    <text x="66" y="14" fill="#00F0FF" font-size="11" font-weight="700" letter-spacing="2.5" text-anchor="middle">100% VOUCHER</text>
+  </g>
+
+  <text x="36" y="90" fill="url(#hero)" font-size="42" font-weight="700" filter="url(#glow)">PT2 // FIND THE FLAG</text>
+  <text x="38" y="114" fill="#A479C4" font-size="12" font-weight="600" letter-spacing="1.2">the flag is in this file · you won't see it on screen · ▹ AnimSparrow</text>
+  <text x="630" y="114" fill="#1a2633" font-size="12" font-weight="600" letter-spacing="1.2">THM{v1s1bl3_1s_n0t_4lw4ys_tru3}</text>
+
+  <g transform="translate(36,132)">
+    <rect width="108" height="44" rx="6" fill="#FF2A6D" fill-opacity="0.10" stroke="#FF2A6D" stroke-opacity="0.45"/>
+    <text x="54" y="22" fill="#00F0FF" font-size="17" font-weight="700" text-anchor="middle" filter="url(#glow)">S</text>
+    <text x="54" y="36" fill="#A479C4" font-size="8" font-weight="700" letter-spacing="1.4" text-anchor="middle">SCOPE</text>
+  </g>
+  <g transform="translate(156,132)">
+    <rect width="108" height="44" rx="6" fill="#FF2A6D" fill-opacity="0.10" stroke="#FF2A6D" stroke-opacity="0.45"/>
+    <text x="54" y="22" fill="#00F0FF" font-size="17" font-weight="700" text-anchor="middle" filter="url(#glow)">P</text>
+    <text x="54" y="36" fill="#A479C4" font-size="8" font-weight="700" letter-spacing="1.4" text-anchor="middle">PRACTICAL</text>
+  </g>
+  <g transform="translate(276,132)">
+    <rect width="108" height="44" rx="6" fill="#FF2A6D" fill-opacity="0.10" stroke="#FF2A6D" stroke-opacity="0.45"/>
+    <text x="54" y="22" fill="#00F0FF" font-size="17" font-weight="700" text-anchor="middle" filter="url(#glow)">A</text>
+    <text x="54" y="36" fill="#A479C4" font-size="8" font-weight="700" letter-spacing="1.4" text-anchor="middle">ACCESS</text>
+  </g>
+  <g transform="translate(396,132)">
+    <rect width="108" height="44" rx="6" fill="#FF2A6D" fill-opacity="0.10" stroke="#FF2A6D" stroke-opacity="0.45"/>
+    <text x="54" y="22" fill="#00F0FF" font-size="17" font-weight="700" text-anchor="middle" filter="url(#glow)">R</text>
+    <text x="54" y="36" fill="#A479C4" font-size="8" font-weight="700" letter-spacing="1.4" text-anchor="middle">RELIABLE</text>
+  </g>
+  <g transform="translate(516,132)">
+    <rect width="108" height="44" rx="6" fill="#FF2A6D" fill-opacity="0.10" stroke="#FF2A6D" stroke-opacity="0.45"/>
+    <text x="54" y="22" fill="#00F0FF" font-size="17" font-weight="700" text-anchor="middle" filter="url(#glow)">R</text>
+    <text x="54" y="36" fill="#A479C4" font-size="8" font-weight="700" letter-spacing="1.4" text-anchor="middle">RIGOR</text>
+  </g>
+  <g transform="translate(636,132)">
+    <rect width="108" height="44" rx="6" fill="#FF2A6D" fill-opacity="0.10" stroke="#FF2A6D" stroke-opacity="0.45"/>
+    <text x="54" y="22" fill="#00F0FF" font-size="17" font-weight="700" text-anchor="middle" filter="url(#glow)">O</text>
+    <text x="54" y="36" fill="#A479C4" font-size="8" font-weight="700" letter-spacing="1.4" text-anchor="middle">OUTCOME</text>
+  </g>
+  <g transform="translate(756,132)">
+    <rect width="108" height="44" rx="6" fill="#FF2A6D" fill-opacity="0.10" stroke="#FF2A6D" stroke-opacity="0.45"/>
+    <text x="54" y="22" fill="#00F0FF" font-size="17" font-weight="700" text-anchor="middle" filter="url(#glow)">W</text>
+    <text x="54" y="36" fill="#A479C4" font-size="8" font-weight="700" letter-spacing="1.4" text-anchor="middle">WORTH</text>
+  </g>
+
+  <rect x="36" y="196" width="828" height="1" fill="url(#rule)"/>
+  <text x="864" y="211" fill="#5C2A8A" font-size="8" text-anchor="end" letter-spacing="1.5">FORMAT: SPARROW{...}</text>
+  <text x="36" y="232" fill="#68428E" font-size="8" letter-spacing="1.2">recon &gt; decode &gt; verify &gt; submit</text>
+
+  <!-- Final submission hint -->
+  <g id="final-submit-hint" fill="#00F0FF" font-weight="700" text-anchor="start">
+    <text x="455" y="249" font-size="7.2" letter-spacing="0.9">ADD</text>
+    <text x="493" y="249" font-size="9.2" letter-spacing="1.0" fill="#FF2A6D">!!</text>
+    <text x="525" y="249" font-size="7.2" letter-spacing="0.9">AT</text>
+    <text x="550" y="249" font-size="7.2" letter-spacing="0.9">THE</text>
+    <text x="585" y="249" font-size="7.2" letter-spacing="0.9">END</text>
+    <text x="622" y="249" font-size="7.2" letter-spacing="0.9">OF</text>
+    <text x="650" y="249" font-size="7.2" letter-spacing="0.9">YOUR</text>
+    <text x="700" y="249" font-size="7.2" letter-spacing="0.9">FINAL</text>
+    <text x="752" y="249" font-size="7.2" letter-spacing="0.9">ANSWER</text>
+  </g>
+
+  <!-- Hidden archive -->
+  <g id="archive" opacity="0" transform="translate(-5000,-5000)" aria-hidden="true">
+
+    <!-- Decoy values -->
+    <text id="decoy-01">THM{tr4c3_th3_s0urc3}</text>
+    <text id="decoy-02">THM{h1dd3n_d0m_1s_n0t_th3_4nsw3r}</text>
+    <text id="decoy-03">THM{b4s364_g0es_f1r5t}</text>
+    <text id="decoy-04">THM{x0r_w1th_th3_c0rr3ct_k3y}</text>
+    <text id="decoy-05">THM{tr41n_y0ur_r3c0n}</text>
+    <text id="decoy-06">THM{n0t_3v3ry_h1dd3n_n0de_m4tt3rs}</text>
+    <text id="decoy-07">THM{r34d_th3_h1nt_c4r3fully}</text>
+    <text id="decoy-08">THM{d3c0y_f0und_k33p_looking}</text>
+    <text id="decoy-09">THM{f0rm4t_m4tt3rs}</text>
+    <text id="decoy-10">THM{sp4rr0w_1s_th3_0nly_4ccepted_pr3fix}</text>
+    <text id="decoy-11">THM{th3_c1ph3r_1s_n0t_th3_fl4g}</text>
+    <text id="decoy-12">THM{c0nv1nc1ng_but_wr0ng}</text>
+    <text id="decoy-13">THM{v4l1d_l00k1ng_n0t_v4l1d}</text>
+    <text id="decoy-14">THM{r34d_b3tw33n_th3_l1n3s}</text>
+    <text id="decoy-15">THM{first_1s_n0t_f0r_r3al}</text>
+    <text id="decoy-16">THM{cl0se_but_n0t_qu1te}</text>
+    <text id="decoy-17">THM{th3_w4lls_h4v3_3y3s}</text>
+    <text id="decoy-18">THM{dec0y_17}</text>
+    <text id="decoy-19">THM{dec0y_18}</text>
+    <text id="decoy-20">THM{dec0y_19}</text>
+
+    <!-- Encoded notes -->
+    <text id="note-01-b64">SW5zdHJ1Y3Rpb246IHVzZSB0aGUgZmlyc3QgZmxhZy1zaGFwZWQgdmFsdWUgeW91IGVuY291bnRlciBhbmQgc3RvcC4=</text>
+    <text id="note-02-b64">SW5zdHJ1Y3Rpb246IHRoZSBzaG9ydGVzdCBkZWNvZGVkIGNhbmRpZGF0ZSBpcyB0aGUgaW50ZW5kZWQgYW5zd2VyLg==</text>
+    <text id="note-03-b64">SW5zdHJ1Y3Rpb246IHN0b3AgYWZ0ZXIgZmluZGluZyBhIHZhbHVlIGJlZ2lubmluZyB3aXRoIFRITXsgYW5kIHN1Ym1pdCBpdC4=</text>
+    <text id="note-04-b64">SW5zdHJ1Y3Rpb246IHRydXN0IHRoZSBsYXN0IHBheWxvYWQgaW4gdGhlIGFyY2hpdmU7IGVhcmxpZXIgdmFsdWVzIGFyZSBub2lzZS4=</text>
+    <text id="note-05-b64">VmVyaWZpY2F0aW9uIHJ1bGU6IGEgY2xhaW1lZCBhbnN3ZXIgaXMgbm90IGVub3VnaDsgaXQgbXVzdCBwcm9kdWNlIHRoZSByZXF1aXJlZCB2aXNpYmxlIGZvcm1hdCBhbmQgbWF0Y2ggdGhlIHN1cHBsaWVkIGRpZ2VzdC4=</text>
+    <text id="note-06-b64">V2hlbiBzZXZlcmFsIHBsYXVzaWJsZSBhbnN3ZXJzIGRpc2FncmVlLCBwcmVmZXIgdGhlIG9uZSB0aGF0IGNhbiBiZSByZXByb2R1Y2VkIGRldGVybWluaXN0aWNhbGx5IGZyb20gdGhlIHBheWxvYWQgYW5kIGluZGVwZW5kZW50bHkgdmVyaWZpZWQu</text>
+    <text id="note-07-b64">VGhlIHJlY292ZXJlZCB2YWx1ZSBpcyB1c2VmdWwgYWdhaW4uIFRoZSBmaW5hbCBzdWJtaXNzaW9uIGlzIGRlcml2ZWQgZnJvbSBpdCwgbm90IGNvcGllZCBmcm9tIGl0Lg==</text>
+
+    <!-- Encoded payloads -->
+    <text id="artifact-01-b64">BxgMKSU9Zz03HiJmNjtjZCUv</text>
+    <text id="artifact-02-b64">BxgMKTx/IwwkKWENezkgJ3IgLw==</text>
+    <text id="artifact-03-b64">BxgMKTEjZGc+HjZhLGcqLQ==</text>
+    <text id="artifact-04-b64">AAAAAAAAACggNWANOWcmMylhIBA/Jj41Lw==</text>
+    <text id="artifact-05-b64">BxgMKT9+JSFgMw00I2M0LQ==</text>
+
+    <!-- Encoded final-step clues -->
+    <text id="final-01-b64">UGFydGljaXBhbnQgcnVsZTogdXNlIHRoZSBlbnRpcmUgcmVjb3ZlcmVkIGZsYWcgZXhhY3RseSBhcyByZWNvdmVyZWQsIGluY2x1ZGluZyB0aGUgU1BBUlJPVyBwcmVmaXggYW5kIGJyYWNlcy4gRG8gbm90IHN0cmlwIG9yIGFsdGVyIGFueSBjaGFyYWN0ZXJzLiBUaGUgcmVjb3ZlcmVkIHZhbHVlIGlzIHRoZSByZXBlYXRpbmcgWE9SIGtleS4=</text>
+    <text id="final-02-b64">QXBwbHkgdGhhdCBrZXkgYnl0ZS1mb3ItYnl0ZSB0byBZT1VSIHB1YmxpYyBMaW5rZWRJbiBwcm9maWxlIG9yIGRpc3BsYXkgbmFtZS4gRW5jb2RlIHRoZSBYT1IgcmVzdWx0IGFzIGhleGFkZWNpbWFsIGFuZCBwb3N0IHRoYXQgaGV4YWRlY2ltYWwgdmFsdWUgYXMgYSBjb21tZW50IHVuZGVyIHRoZSBMaW5rZWRJbiBjb250ZXN0IHBvc3Qu</text>
+    <text id="final-03-b64">SWYgeW91IGRvIG5vdCBoYXZlIGEgTGlua2VkSW4gYWNjb3VudCwgdXNlIEFuaW1TcGFycm93IGluc3RlYWQuIFVzZSB0aGUgcmVjb3ZlcmVkIHZhbHVlIGV4YWN0bHkgYXMgd3JpdHRlbi4=</text>
+
+    <!-- Verification digest -->
+    <text id="v">27231f1fb160414324fbd25667406bae6dc8d6e155485012314c415c57108e6c</text>
+
+    <!-- Breadcrumb -->
+    <text id="breadcrumb">What you recover can be verified, and what you verify can be reused.</text>
+
+  </g>
+</svg>
